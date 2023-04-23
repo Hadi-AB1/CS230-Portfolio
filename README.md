@@ -7,7 +7,7 @@
 
 3- What about the process of working through a design document did you find helpful when developing the code?
 
--Studying the subject matter model as a UML class diagram aided to comprehend the framework and relationships of objects representing app elements. This aided in the development of compact classes with basic methods that directly utilized other things to construct a clean prototype.
+- Studying the subject matter model as a UML class diagram aided to comprehend the framework and relationships of objects representing app elements. This aided in the development of compact classes with basic methods that directly utilized other things to construct a clean prototype.
 
 4- If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 - A closer dig into the intricacies between the operating systems on the client side might improve the assessment part by comparing and contrasting common OSs and mobile platforms. The web browser is the primary client-side issue since it is the engine that runs the program for the client. Research examining the differences between operating systems for web-based applications yielded limited results. OS preference for specific browsers should be investigated further to see whether non-favored browsers impose technical or performance limits.
