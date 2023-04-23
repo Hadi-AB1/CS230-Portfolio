@@ -6,6 +6,7 @@
 - I produced a detailed suggestion section covering critical areas for the customer to think about, such as the host operating system, memory and storage management solutions on host servers, the API framework, security, and the benefits of launching the product using a serverless architecture. I created a compelling argument for why a platform in the cloud was the ideal option for the customer and the goals they had.
 
 3- What about the process of working through a design document did you find helpful when developing the code?
+
 -Studying the subject matter model as a UML class diagram aided to comprehend the framework and relationships of objects representing app elements. This aided in the development of compact classes with basic methods that directly utilized other things to construct a clean prototype.
 
 4- If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
@@ -16,4 +17,4 @@
 
 6-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
--To develop software, start vague and work your way up to precision. Establish high-level goals and develop them via several iterations to arrive at the ultimate answer. A client's business objectives, for example, might be broken down into functional requirements that outline the major components of functionality required to satisfy those goals. technological requirements that explain the technological approach to functional fulfillment might be subdivided from practical demands. Technical requirements may then be converted into design papers, architecture, and code that meet those criteria and produce the final product.
+- To develop software, start vague and work your way up to precision. Establish high-level goals and develop them via several iterations to arrive at the ultimate answer. A client's business objectives, for example, might be broken down into functional requirements that outline the major components of functionality required to satisfy those goals. technological requirements that explain the technological approach to functional fulfillment might be subdivided from practical demands. Technical requirements may then be converted into design papers, architecture, and code that meet those criteria and produce the final product.
